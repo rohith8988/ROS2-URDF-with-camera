@@ -5,20 +5,20 @@ This workspace contains a ROS 2 Jazzy mobile robot with:
 - Camera sensor
 - 2-DOF arm mounted on top of the base
 
-<<<<<<< HEAD
 ## Packages
 - `my_robot_description`: URDF/Xacro model, Gazebo model plugins, RViz config, display launch.
 - `my_robot_bringup`: Gazebo world files, ROS<->Gazebo bridge config, Gazebo launch.
 =======
-<img width="2321" height="1844" alt="image" src="https://github.com/user-attachments/assets/740c19d2-8d0a-4ecc-addf-863029d79f92" />
-<img width="3659" height="2215" alt="image" src="https://github.com/user-attachments/assets/fab6ebc8-5f80-4ee4-8d8d-e487ea25a4d4" />
+<img width="3720" height="2154" alt="image" src="https://github.com/user-attachments/assets/818aa15b-2248-4306-b0a8-8368613ddf11" />
+<img width="3826" height="1887" alt="image" src="https://github.com/user-attachments/assets/f9cba3be-6971-45a6-95c5-aef9f1708e30" />
+
 
 
 
 **Packages**
 - `my_robot_description`: URDF/Xacro, RViz config, and a display launch file.
 - `my_robot_bringup`: Gazebo world(s), bridge config, and a Gazebo launch file.
->>>>>>> 3b653a0ecec7918f51cc60abe58deedf64a06d96
+
 
 ## Prerequisites
 - ROS 2 Jazzy installed and sourced.
